@@ -284,12 +284,12 @@ cd llm-hallucination-african-education
 pip install -r requirements.txt
 
 # Open the notebook
-jupyter notebook notebooks/hallucination_analysis.ipynb```
+jupyter notebook notebooks/llm-hallucination-african-education.ipynb
 
 ---
 
 Or open directly in Google Colab:
-▶ Open in Google Colab
+▶ Open in Google Colab 
 Related Work
 This project builds on and connects to:
 AfriLearn Lens (Olayiwola, 2025) — XGBoost and SHAP analysis of structural bias in AI-driven student engagement prediction. DOI: 10.5281/zenodo.19644518
