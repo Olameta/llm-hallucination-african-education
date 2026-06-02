@@ -284,5 +284,17 @@ cd llm-hallucination-african-education
 pip install -r requirements.txt
 
 # Open the notebook
-jupyter notebook notebooks/hallucination_analysis.ipynb
+jupyter notebook notebooks/hallucination_analysis.ipynb```
 
+---
+
+Or open directly in Google Colab:
+▶ Open in Google Colab
+Related Work
+This project builds on and connects to:
+AfriLearn Lens (Olayiwola, 2025) — XGBoost and SHAP analysis of structural bias in AI-driven student engagement prediction. DOI: 10.5281/zenodo.19644518
+Lin et al. (2022) — TruthfulQA: Measuring How Models Mimic Human Falsehoods
+Ahia et al. (2023) — Do All Languages Cost the Same? Tokenization in the Era of Commercial Language Models
+Adelani et al. (2022) — MasakhaNER: Named Entity Recognition for African Languages
+Citation
+If you use this dataset, methodology, or findings, please cite:
