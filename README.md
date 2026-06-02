@@ -1,5 +1,5 @@
 # llm-hallucination-african-education
-XGBoost + SHAP model for student engagement detection in low-resource African learning environments using the OULAD dataset
+Empirical bias audit of AI-driven educational prediction in low-resource African contexts — demonstrating how demographic-heavy models fail underrepresented learners. XGBoost, SHAP attribution, OULAD dataset.
 # Evaluating Hallucination Patterns in Small Language Models on African Educational Questions
 
 [
