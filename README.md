@@ -275,21 +275,8 @@ shap>=0.41.0
 
 ## How to Reproduce
 
-```bash
-# Clone the repository
-git clone https://github.com/Olameta/llm-hallucination-african-education
-cd llm-hallucination-african-education
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Open the notebook
-jupyter notebook notebooks/hallucination_analysis.ipynb```
-
----
-
-Or open directly in Google Colab:
-▶ Open in Google Colab
+open directly in Google Colab:
+https://colab.research.google.com/drive/1l0UI_NfotmmK8mP65NvKFYm8_c8LX8sO?usp=sharing
 Related Work
 This project builds on and connects to:
 AfriLearn Lens (Olayiwola, 2025) — XGBoost and SHAP analysis of structural bias in AI-driven student engagement prediction. DOI: 10.5281/zenodo.19644518
@@ -298,3 +285,24 @@ Ahia et al. (2023) — Do All Languages Cost the Same? Tokenization in the Era o
 Adelani et al. (2022) — MasakhaNER: Named Entity Recognition for African Languages
 Citation
 If you use this dataset, methodology, or findings, please cite:
+@misc{olayiwola2026hallucination,
+  author = {Olayiwola, Abdussomad},
+  title  = {Evaluating Hallucination Patterns in Small Language
+            Models on African Educational Questions},
+  year   = {2026},
+  url    = {https://github.com/Olameta/llm-hallucination-african-education}
+}
+
+---
+
+## Author
+Abdussomad Olayiwola
+B.Tech Computer Science, LAUTECH, Nigeria (First Class, 4.65/5.00)
+Young Researcher, Heidelberg Laureate Forum 2025
+AI & Data Science Instructor, Africa Research Center
+Published Research: AfriLearn Lens
+GitHub: github.com/Olameta
+This project is part of an ongoing research agenda investigating
+evaluation coverage, distributional fairness, and reliability gaps
+in deployed AI systems — with a focus on implications for
+communities in sub-Saharan Africa.
